@@ -1,4 +1,7 @@
-# elm-package generated files
-elm-stuff
-# elm-repl generated files
-repl-temp-*
+.cache
+.yarn
+node_modules
+build
+dist
+src/config
+yarn-error.log
